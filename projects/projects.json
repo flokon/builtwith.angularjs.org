@@ -3668,6 +3668,23 @@
         "Responsive",
         "RESTful"
       ]
+    },
+    {
+      "name": "Luzly",
+      "thumb": "luzly/thumb.png",
+      "desc": "Free Online Cloud Invoicing. Create, manage and send invoices easily. Manage Clients and Inventory. Easy to use invoicing software for your business.",
+      "url": "http://www.luzly.com",
+      "info": "http://www.luzly.com",
+      "submitter": "flokon",
+      "submissionDate": "2015-04-14",
+      "tags": [
+        "Production",
+        "Invoice",
+        "Free",
+        "Productivity",
+        "Bootstrap",
+        "Localization"
+      ]
     }
 
   ]
